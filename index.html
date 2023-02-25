@@ -10,20 +10,38 @@
     var config = {
       dataSource: './team.json',
       forceLocked: false,
+      cluster: true,
+      nodeCaptionsOnByDefault: true,
+      initialScale: 0.7,
       graphHeight: function() {
-        return 600;
+        return window.innerHeight;
       },
       graphWidth: function() {
-        return 800;
+        return window.innerWidth;
       },      
       linkDistance: function() {
-        return 50;
+        return 10;
       },
-      nodeTypes: {"node_type":[ "Maintainer",
-                                "Contributor"]},
       nodeCaption: function(node) { 
-        return node.label;}
-      };
+        return node.label;
+      },
+      nodeTypes: {"nodeType":["player"]},
+      nodeStyle: {
+        player: {
+          radius: 20
+        }
+      },
+      edgeStyle: {
+        "IS_IN": {
+          "width": 1,
+          "color": "rgba(255,255,255,0.4)"
+        },
+        "REFERENCED": {
+          "width": 3,
+          "color": "rgb(0,255,0)"
+        }
+      }
+    };
 
     alchemy = new Alchemy(config)
   </script>

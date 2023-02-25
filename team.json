@@ -1,252 +1,314 @@
 {
     "nodes": [
         {
-            "id": 13,
-            "label": "Jane from Oregon"
-        },
-        {
-            "id": 7,
-            "label": "Kevin"
-        },
-        {
-            "id": 26,
-            "label": "Erin"
-        },
-        {
-            "id": 52,
-            "label": "Hayley"
-        },
-        {
-            "id": 57,
-            "label": "David Knobel"
-        },
-        {
-            "id": 12,
-            "label": "Adrienne"
-        },
-        {
-            "id": 27,
-            "label": "Bob (Flockmeister)"
-        },
-        {
-            "id": 38,
-            "label": "Avi"
-        },
-        {
-            "id": 59,
-            "label": "Jeff Rothal"
-        },
-        {
-            "id": 10,
-            "label": "Jeanine"
-        },
-        {
-            "id": 6,
-            "label": "Mano"
-        },
-        {
-            "id": 58,
-            "label": "Brooke Silveria"
-        },
-        {
-            "id": 20,
-            "label": "Peggy"
-        },
-        {
-            "id": 39,
-            "label": "Alan"
-        },
-        {
-            "id": 47,
-            "label": "Kelly Burke"
-        },
-        {
-            "id": 51,
-            "label": "Brian Dunning"
-        },
-        {
-            "id": 28,
-            "label": "Kristy"
-        },
-        {
-            "id": 11,
-            "label": "Zeek"
-        },
-        {
-            "id": 22,
-            "label": "Bill Nyden"
-        },
-        {
-            "id": 50,
-            "label": "Ross Blocher"
-        },
-        {
-            "id": 37,
-            "label": "Terry Kerby"
-        },
-        {
-            "id": 46,
-            "label": "Heather"
-        },
-        {
-            "id": 45,
-            "label": "April Hoy"
-        },
-        {
-            "id": 53,
-            "label": "Jim Newman"
-        },
-        {
-            "id": 8,
-            "label": "Rob P"
-        },
-        {
-            "id": 43,
-            "label": "???"
-        },
-        {
-            "id": 14,
-            "label": "Deborah"
-        },
-        {
-            "id": 18,
-            "label": "Mark Edward"
-        },
-        {
-            "id": 16,
-            "label": "Caspian"
-        },
-        {
-            "id": 32,
-            "label": "Jane Felton"
-        },
-        {
-            "id": 56,
-            "label": "Richard McDonald"
-        },
-        {
-            "id": 4,
-            "label": "Kyle"
-        },
-        {
-            "id": 35,
-            "label": "Jamie Brown"
-        },
-        {
-            "id": 19,
-            "label": "Robin"
-        },
-        {
-            "id": 30,
-            "label": "Faith"
-        },
-        {
-            "id": 49,
-            "label": "Leonard"
-        },
-        {
-            "id": 61,
-            "label": "Sharon Roney"
-        },
-        {
-            "id": 21,
-            "label": "Isabella"
-        },
-        {
-            "id": 1,
-            "label": "Teri"
-        },
-        {
-            "id": 29,
-            "label": "Ramiro"
-        },
-        {
-            "id": 31,
-            "label": "Karen Araujo"
-        },
-        {
-            "id": 42,
-            "label": "Larry"
-        },
-        {
-            "id": 9,
-            "label": "Carolyn"
+            "id": 25,
+            "label": "Paula S",
+            "nodeType": "player"
         },
         {
             "id": 41,
-            "label": "Vincent"
+            "label": "Vincent",
+            "nodeType": "player"
         },
         {
-            "id": 55,
-            "label": "Katie"
+            "id": 42,
+            "label": "Larry",
+            "nodeType": "player"
         },
         {
-            "id": 36,
-            "label": "Brian Kerby"
+            "id": 10,
+            "label": "Jeanine",
+            "nodeType": "player"
         },
         {
-            "id": 3,
-            "label": "Susan"
+            "id": 7,
+            "label": "Kevin",
+            "nodeType": "player"
         },
         {
-            "id": 25,
-            "label": "Paula S"
-        },
-        {
-            "id": 34,
-            "label": "Mike W."
-        },
-        {
-            "id": 54,
-            "label": "Lou H"
-        },
-        {
-            "id": 5,
-            "label": "Richard"
-        },
-        {
-            "id": 2,
-            "label": "Suzie"
-        },
-        {
-            "id": 60,
-            "label": "Raymond"
-        },
-        {
-            "id": 15,
-            "label": "Karl Withakay"
+            "id": 6,
+            "label": "Mano",
+            "nodeType": "player"
         },
         {
             "id": 23,
-            "label": "Rob  P"
+            "label": "Rob  P",
+            "nodeType": "player"
         },
         {
-            "id": 24,
-            "label": "Brandi"
-        },
-        {
-            "id": 40,
-            "label": "Jim Baerg"
-        },
-        {
-            "id": 44,
-            "label": "Paulina"
-        },
-        {
-            "id": 48,
-            "label": "Ben Bellinger"
-        },
-        {
-            "id": 62,
-            "label": "Brian Engler"
+            "id": 32,
+            "label": "Jane Felton",
+            "nodeType": "player"
         },
         {
             "id": 17,
-            "label": "Karen Araujo saw on FB"
+            "label": "Karen Araujo saw on FB",
+            "nodeType": "player"
+        },
+        {
+            "id": 27,
+            "label": "Bob (Flockmeister)",
+            "nodeType": "player"
+        },
+        {
+            "id": 13,
+            "label": "Jane from Oregon",
+            "nodeType": "player"
+        },
+        {
+            "id": 34,
+            "label": "Mike W.",
+            "nodeType": "player"
         },
         {
             "id": 33,
-            "label": "Facebook link"
+            "label": "Facebook link",
+            "nodeType": "player"
+        },
+        {
+            "id": 44,
+            "label": "Paulina",
+            "nodeType": "player"
+        },
+        {
+            "id": 45,
+            "label": "April Hoy",
+            "nodeType": "player"
+        },
+        {
+            "id": 47,
+            "label": "Kelly Burke",
+            "nodeType": "player"
+        },
+        {
+            "id": 51,
+            "label": "Brian Dunning",
+            "nodeType": "player"
+        },
+        {
+            "id": 11,
+            "label": "Zeek",
+            "nodeType": "player"
+        },
+        {
+            "id": 1,
+            "label": "Teri",
+            "nodeType": "player"
+        },
+        {
+            "id": 29,
+            "label": "Ramiro",
+            "nodeType": "player"
+        },
+        {
+            "id": 30,
+            "label": "Faith",
+            "nodeType": "player"
+        },
+        {
+            "id": 28,
+            "label": "Kristy",
+            "nodeType": "player"
+        },
+        {
+            "id": 21,
+            "label": "Isabella",
+            "nodeType": "player"
+        },
+        {
+            "id": 35,
+            "label": "Jamie Brown",
+            "nodeType": "player"
+        },
+        {
+            "id": 18,
+            "label": "Mark Edward",
+            "nodeType": "player"
+        },
+        {
+            "id": 16,
+            "label": "Caspian",
+            "nodeType": "player"
+        },
+        {
+            "id": 40,
+            "label": "Jim Baerg",
+            "nodeType": "player"
+        },
+        {
+            "id": 12,
+            "label": "Adrienne",
+            "nodeType": "player"
+        },
+        {
+            "id": 53,
+            "label": "Jim Newman",
+            "nodeType": "player"
+        },
+        {
+            "id": 8,
+            "label": "Rob P",
+            "nodeType": "player"
+        },
+        {
+            "id": 54,
+            "label": "Lou H",
+            "nodeType": "player"
+        },
+        {
+            "id": 15,
+            "label": "Karl Withakay",
+            "nodeType": "player"
+        },
+        {
+            "id": 56,
+            "label": "Richard McDonald",
+            "nodeType": "player"
+        },
+        {
+            "id": 57,
+            "label": "David Knobel",
+            "nodeType": "player"
+        },
+        {
+            "id": 60,
+            "label": "Raymond",
+            "nodeType": "player"
+        },
+        {
+            "id": 59,
+            "label": "Jeff Rothal",
+            "nodeType": "player"
+        },
+        {
+            "id": 49,
+            "label": "Leonard",
+            "nodeType": "player"
+        },
+        {
+            "id": 52,
+            "label": "Hayley",
+            "nodeType": "player"
+        },
+        {
+            "id": 38,
+            "label": "Avi",
+            "nodeType": "player"
+        },
+        {
+            "id": 9,
+            "label": "Carolyn",
+            "nodeType": "player"
+        },
+        {
+            "id": 31,
+            "label": "Karen Araujo",
+            "nodeType": "player"
+        },
+        {
+            "id": 5,
+            "label": "Richard",
+            "nodeType": "player"
+        },
+        {
+            "id": 36,
+            "label": "Brian Kerby",
+            "nodeType": "player"
+        },
+        {
+            "id": 24,
+            "label": "Brandi",
+            "nodeType": "player"
+        },
+        {
+            "id": 37,
+            "label": "Terry Kerby",
+            "nodeType": "player"
+        },
+        {
+            "id": 43,
+            "label": "???",
+            "nodeType": "player"
+        },
+        {
+            "id": 22,
+            "label": "Bill Nyden",
+            "nodeType": "player"
+        },
+        {
+            "id": 3,
+            "label": "Susan",
+            "nodeType": "player"
+        },
+        {
+            "id": 48,
+            "label": "Ben Bellinger",
+            "nodeType": "player"
+        },
+        {
+            "id": 50,
+            "label": "Ross Blocher",
+            "nodeType": "player"
+        },
+        {
+            "id": 39,
+            "label": "Alan",
+            "nodeType": "player"
+        },
+        {
+            "id": 14,
+            "label": "Deborah",
+            "nodeType": "player"
+        },
+        {
+            "id": 55,
+            "label": "Katie",
+            "nodeType": "player"
+        },
+        {
+            "id": 46,
+            "label": "Heather",
+            "nodeType": "player"
+        },
+        {
+            "id": 58,
+            "label": "Brooke Silveria",
+            "nodeType": "player"
+        },
+        {
+            "id": 62,
+            "label": "Brian Engler",
+            "nodeType": "player"
+        },
+        {
+            "id": 19,
+            "label": "Robin",
+            "nodeType": "player"
+        },
+        {
+            "id": 20,
+            "label": "Peggy",
+            "nodeType": "player"
+        },
+        {
+            "id": 61,
+            "label": "Sharon Roney",
+            "nodeType": "player"
+        },
+        {
+            "id": 2,
+            "label": "Suzie",
+            "nodeType": "player"
+        },
+        {
+            "id": 4,
+            "label": "Kyle",
+            "nodeType": "player"
+        },
+        {
+            "id": 26,
+            "label": "Erin",
+            "nodeType": "player"
         }
     ],
     "edges": [

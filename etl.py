@@ -37,7 +37,8 @@ for row in s.split('\n'):
 for node in nodes:
 	n = {
 		'id': nmap[node],
-		'label': node
+		'label': node,
+		'nodeType': 'player'
 	}
 	result['nodes'].append(n)
 
