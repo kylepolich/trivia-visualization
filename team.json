@@ -1,0 +1,544 @@
+{
+    "nodes": [
+        {
+            "id": 13,
+            "label": "Jane from Oregon"
+        },
+        {
+            "id": 7,
+            "label": "Kevin"
+        },
+        {
+            "id": 26,
+            "label": "Erin"
+        },
+        {
+            "id": 52,
+            "label": "Hayley"
+        },
+        {
+            "id": 57,
+            "label": "David Knobel"
+        },
+        {
+            "id": 12,
+            "label": "Adrienne"
+        },
+        {
+            "id": 27,
+            "label": "Bob (Flockmeister)"
+        },
+        {
+            "id": 38,
+            "label": "Avi"
+        },
+        {
+            "id": 59,
+            "label": "Jeff Rothal"
+        },
+        {
+            "id": 10,
+            "label": "Jeanine"
+        },
+        {
+            "id": 6,
+            "label": "Mano"
+        },
+        {
+            "id": 58,
+            "label": "Brooke Silveria"
+        },
+        {
+            "id": 20,
+            "label": "Peggy"
+        },
+        {
+            "id": 39,
+            "label": "Alan"
+        },
+        {
+            "id": 47,
+            "label": "Kelly Burke"
+        },
+        {
+            "id": 51,
+            "label": "Brian Dunning"
+        },
+        {
+            "id": 28,
+            "label": "Kristy"
+        },
+        {
+            "id": 11,
+            "label": "Zeek"
+        },
+        {
+            "id": 22,
+            "label": "Bill Nyden"
+        },
+        {
+            "id": 50,
+            "label": "Ross Blocher"
+        },
+        {
+            "id": 37,
+            "label": "Terry Kerby"
+        },
+        {
+            "id": 46,
+            "label": "Heather"
+        },
+        {
+            "id": 45,
+            "label": "April Hoy"
+        },
+        {
+            "id": 53,
+            "label": "Jim Newman"
+        },
+        {
+            "id": 8,
+            "label": "Rob P"
+        },
+        {
+            "id": 43,
+            "label": "???"
+        },
+        {
+            "id": 14,
+            "label": "Deborah"
+        },
+        {
+            "id": 18,
+            "label": "Mark Edward"
+        },
+        {
+            "id": 16,
+            "label": "Caspian"
+        },
+        {
+            "id": 32,
+            "label": "Jane Felton"
+        },
+        {
+            "id": 56,
+            "label": "Richard McDonald"
+        },
+        {
+            "id": 4,
+            "label": "Kyle"
+        },
+        {
+            "id": 35,
+            "label": "Jamie Brown"
+        },
+        {
+            "id": 19,
+            "label": "Robin"
+        },
+        {
+            "id": 30,
+            "label": "Faith"
+        },
+        {
+            "id": 49,
+            "label": "Leonard"
+        },
+        {
+            "id": 61,
+            "label": "Sharon Roney"
+        },
+        {
+            "id": 21,
+            "label": "Isabella"
+        },
+        {
+            "id": 1,
+            "label": "Teri"
+        },
+        {
+            "id": 29,
+            "label": "Ramiro"
+        },
+        {
+            "id": 31,
+            "label": "Karen Araujo"
+        },
+        {
+            "id": 42,
+            "label": "Larry"
+        },
+        {
+            "id": 9,
+            "label": "Carolyn"
+        },
+        {
+            "id": 41,
+            "label": "Vincent"
+        },
+        {
+            "id": 55,
+            "label": "Katie"
+        },
+        {
+            "id": 36,
+            "label": "Brian Kerby"
+        },
+        {
+            "id": 3,
+            "label": "Susan"
+        },
+        {
+            "id": 25,
+            "label": "Paula S"
+        },
+        {
+            "id": 34,
+            "label": "Mike W."
+        },
+        {
+            "id": 54,
+            "label": "Lou H"
+        },
+        {
+            "id": 5,
+            "label": "Richard"
+        },
+        {
+            "id": 2,
+            "label": "Suzie"
+        },
+        {
+            "id": 60,
+            "label": "Raymond"
+        },
+        {
+            "id": 15,
+            "label": "Karl Withakay"
+        },
+        {
+            "id": 23,
+            "label": "Rob  P"
+        },
+        {
+            "id": 24,
+            "label": "Brandi"
+        },
+        {
+            "id": 40,
+            "label": "Jim Baerg"
+        },
+        {
+            "id": 44,
+            "label": "Paulina"
+        },
+        {
+            "id": 48,
+            "label": "Ben Bellinger"
+        },
+        {
+            "id": 62,
+            "label": "Brian Engler"
+        },
+        {
+            "id": 17,
+            "label": "Karen Araujo saw on FB"
+        },
+        {
+            "id": 33,
+            "label": "Facebook link"
+        }
+    ],
+    "edges": [
+        {
+            "source": 1,
+            "target": 2,
+            "caption": "Friends"
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "caption": "???"
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "caption": "Amazing Cruise 2007"
+        },
+        {
+            "source": 3,
+            "target": 6,
+            "caption": "Attended Monterey County Skeptic events"
+        },
+        {
+            "source": 3,
+            "target": 7,
+            "caption": "Facebook Psychic Group https://www.facebook.com/groups/754199281404543"
+        },
+        {
+            "source": 3,
+            "target": 8,
+            "caption": "Friend via skepticism"
+        },
+        {
+            "source": 3,
+            "target": 9,
+            "caption": "From meeting at CSICon"
+        },
+        {
+            "source": 3,
+            "target": 10,
+            "caption": "From the Skeptics Toolbox in Eugene, Oregon"
+        },
+        {
+            "source": 3,
+            "target": 11,
+            "caption": "Greater L.A. Skeptic Community / TAM"
+        },
+        {
+            "source": 3,
+            "target": 12,
+            "caption": "GSoW"
+        },
+        {
+            "source": 3,
+            "target": 13,
+            "caption": "Jeanine invited Jane to dinner where she met Susan; Susan invited Jane to trivia."
+        },
+        {
+            "source": 3,
+            "target": 14,
+            "caption": "Long time skeptic friend (met at 1st MCS meeting)"
+        },
+        {
+            "source": 3,
+            "target": 15,
+            "caption": "Long time skeptic friend (met at TAM)"
+        },
+        {
+            "source": 3,
+            "target": 16,
+            "caption": "Mother/Son"
+        },
+        {
+            "source": 3,
+            "target": 17,
+            "caption": "Neighbors. 1st Trivia night birthed from a Tue Trivia online during Pandemic"
+        },
+        {
+            "source": 3,
+            "target": 18,
+            "caption": "Partners"
+        },
+        {
+            "source": 19,
+            "target": 20,
+            "caption": "Employee/Boss"
+        },
+        {
+            "source": 19,
+            "target": 21,
+            "caption": "Neighbor"
+        },
+        {
+            "source": 19,
+            "target": 22,
+            "caption": "???"
+        },
+        {
+            "source": 23,
+            "target": 24,
+            "caption": "Friend via skepticism"
+        },
+        {
+            "source": 23,
+            "target": 25,
+            "caption": "Friend via skepticism"
+        },
+        {
+            "source": 23,
+            "target": 26,
+            "caption": "Friends IRL"
+        },
+        {
+            "source": 23,
+            "target": 27,
+            "caption": "Recovering from Religion acquaintance"
+        },
+        {
+            "source": 23,
+            "target": 28,
+            "caption": "Recovering from Religion acquaintance"
+        },
+        {
+            "source": 23,
+            "target": 1,
+            "caption": "Recovering from Religion acquaintance"
+        },
+        {
+            "source": 29,
+            "target": 30,
+            "caption": "Spouses"
+        },
+        {
+            "source": 31,
+            "target": 32,
+            "caption": "Monterey Co Humanists"
+        },
+        {
+            "source": 33,
+            "target": 34,
+            "caption": "Mike saw link posted on FB by friend who works at the Maximum Fun podcast network (Oh No Ross & Carrie, Go Fact Yourself)."
+        },
+        {
+            "source": 16,
+            "target": 35,
+            "caption": "Partners"
+        },
+        {
+            "source": 36,
+            "target": 37,
+            "caption": "Spouses"
+        },
+        {
+            "source": 38,
+            "target": 39,
+            "caption": "Father/Son"
+        },
+        {
+            "source": 38,
+            "target": 29,
+            "caption": "Friend (SGU Discord)"
+        },
+        {
+            "source": 12,
+            "target": 40,
+            "caption": "Friend from Atheist Society of Calgary bookclub"
+        },
+        {
+            "source": 12,
+            "target": 41,
+            "caption": "Friend from Atheist Society of Calgary bookclub"
+        },
+        {
+            "source": 12,
+            "target": 42,
+            "caption": "Friend from Atheist Society of Calgary bookclub"
+        },
+        {
+            "source": 43,
+            "target": 38,
+            "caption": "???"
+        },
+        {
+            "source": 43,
+            "target": 44,
+            "caption": "???"
+        },
+        {
+            "source": 43,
+            "target": 45,
+            "caption": "???"
+        },
+        {
+            "source": 43,
+            "target": 46,
+            "caption": "???"
+        },
+        {
+            "source": 43,
+            "target": 47,
+            "caption": "???"
+        },
+        {
+            "source": 43,
+            "target": 48,
+            "caption": "???"
+        },
+        {
+            "source": 43,
+            "target": 49,
+            "caption": "Friend via skepticism"
+        },
+        {
+            "source": 43,
+            "target": 11,
+            "caption": "???"
+        },
+        {
+            "source": 43,
+            "target": 6,
+            "caption": "???"
+        },
+        {
+            "source": 43,
+            "target": 50,
+            "caption": "???"
+        },
+        {
+            "source": 43,
+            "target": 51,
+            "caption": "???"
+        },
+        {
+            "source": 43,
+            "target": 52,
+            "caption": "???"
+        },
+        {
+            "source": 43,
+            "target": 53,
+            "caption": "???"
+        },
+        {
+            "source": 43,
+            "target": 54,
+            "caption": "???"
+        },
+        {
+            "source": 43,
+            "target": 55,
+            "caption": "???"
+        },
+        {
+            "source": 43,
+            "target": 56,
+            "caption": "???"
+        },
+        {
+            "source": 43,
+            "target": 57,
+            "caption": "???"
+        },
+        {
+            "source": 43,
+            "target": 58,
+            "caption": "???"
+        },
+        {
+            "source": 43,
+            "target": 59,
+            "caption": "???"
+        },
+        {
+            "source": 43,
+            "target": 60,
+            "caption": "???"
+        },
+        {
+            "source": 43,
+            "target": 61,
+            "caption": "???"
+        },
+        {
+            "source": 43,
+            "target": 36,
+            "caption": "???"
+        },
+        {
+            "source": 43,
+            "target": 62,
+            "caption": "???"
+        }
+    ]
+}

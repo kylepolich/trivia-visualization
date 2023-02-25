@@ -1,0 +1,59 @@
+Inviter	Invitee	Relationship
+Teri	Suzie	Friends
+Susan	Kyle	???
+Susan	Richard	Amazing Cruise 2007
+Susan	Mano	Attended Monterey County Skeptic events
+Susan	Kevin	Facebook Psychic Group https://www.facebook.com/groups/754199281404543
+Susan	Rob P	Friend via skepticism
+Susan	Carolyn	From meeting at CSICon
+Susan	Jeanine	From the Skeptics Toolbox in Eugene, Oregon
+Susan	Zeek	Greater L.A. Skeptic Community / TAM
+Susan	Adrienne	GSoW
+Susan	Jane from Oregon	Jeanine invited Jane to dinner where she met Susan; Susan invited Jane to trivia.
+Susan	Deborah	Long time skeptic friend (met at 1st MCS meeting)
+Susan	Karl Withakay	Long time skeptic friend (met at TAM)
+Susan	Caspian	Mother/Son
+Susan	Karen Araujo saw on FB	Neighbors. 1st Trivia night birthed from a Tue Trivia online during Pandemic
+Susan	Mark Edward	Partners
+Robin	Peggy	Employee/Boss
+Robin	Isabella	Neighbor
+Robin	Bill Nyden	???
+Rob  P	Brandi	Friend via skepticism
+Rob  P	Paula S	Friend via skepticism
+Rob  P	Erin	Friends IRL
+Rob  P	Bob (Flockmeister)	Recovering from Religion acquaintance
+Rob  P	Kristy	Recovering from Religion acquaintance
+Rob  P	Teri	Recovering from Religion acquaintance
+Ramiro	Faith	Spouses
+Karen Araujo	Jane Felton	Monterey Co Humanists
+Facebook link	Mike W.	Mike saw link posted on FB by friend who works at the Maximum Fun podcast network (Oh No Ross & Carrie, Go Fact Yourself).
+Caspian	Jamie Brown	Partners
+Brian Kerby	Terry Kerby	Spouses
+Avi	Alan	Father/Son
+Avi	Ramiro	Friend (SGU Discord)
+Adrienne	Jim Baerg	Friend from Atheist Society of Calgary bookclub
+Adrienne	Vincent	Friend from Atheist Society of Calgary bookclub
+Adrienne	Larry	Friend from Atheist Society of Calgary bookclub
+???	Avi	???
+???	Paulina	???
+???	April Hoy	???
+???	Heather	???
+???	Kelly Burke	???
+???	Ben Bellinger	???
+???	Leonard	Friend via skepticism
+???	Zeek	???
+???	Mano	???
+???	Ross Blocher	???
+???	Brian Dunning	???
+???	Hayley	???
+???	Jim Newman	???
+???	Lou H	???
+???	Katie	???
+???	Richard McDonald	???
+???	David Knobel	???
+???	Brooke Silveria	???
+???	Jeff Rothal	???
+???	Raymond	???
+???	Sharon Roney	???
+???	Brian Kerby	???
+???	Brian Engler	???

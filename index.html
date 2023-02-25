@@ -1,0 +1,31 @@
+<html>
+<head>
+  <link rel="stylesheet" href="alchemy.css"/>
+</head>
+<body>
+  <div class="alchemy" id="alchemy"></div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/alchemyjs/0.4.2/scripts/vendor.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/alchemyjs/0.4.2/alchemy.min.js"></script>
+  <script type="text/javascript">
+    var config = {
+      dataSource: './team.json',
+      forceLocked: false,
+      graphHeight: function() {
+        return 600;
+      },
+      graphWidth: function() {
+        return 800;
+      },      
+      linkDistance: function() {
+        return 50;
+      },
+      nodeTypes: {"node_type":[ "Maintainer",
+                                "Contributor"]},
+      nodeCaption: function(node) { 
+        return node.label;}
+      };
+
+    alchemy = new Alchemy(config)
+  </script>
+</body>
+</html>
