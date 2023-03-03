@@ -1,25 +1,51 @@
 Inviter	Invitee	Relationship
-Teri	Susan 	Friends
-Susan	Mike W.	Mike saw link posted on FB by friend who works at the Maximum Fun podcast network (Oh No Ross & Carrie, Go Fact Yourself).
+Wendy	Heather	tbd
+Susan	Mike W.	Saw Susan's FB link shared by friend who works at the Maximum Fun podcast network
+Susan 	Avi	tbd
+Susan 	Bill London	tbd
+Susan 	Cindi	tbd
+Susan 	Jim Fitzsimons	tbd
+Susan 	Mark Bellis	tbd
+Susan 	Michelle Franklin	skeptic friend
 Susan	Adrienne	GSoW
+Susan	April Hoy	tbd
+Susan	Brian Dunning	tbd
+Susan	Brian Engler	tbd
+Susan	Brian Kerby	tbd
 Susan	Carolyn	From meeting at CSICon
 Susan	Caspian	Mother/Son
+Susan	David Knobel	tbd
 Susan	Deborah	Long time skeptic friend (met at 1st MCS meeting)
+Susan	Gail Knapp	skeptic friend
 Susan	Jane from Oregon	Jeanine invited Jane to dinner where she met Susan; Susan invited Jane to trivia.
 Susan	Jeanine	From the Skeptics Toolbox in Eugene, Oregon
+Susan	Jim Newman	tbd
 Susan	Karen Araujo	Neighbors. 1st Trivia night birthed from a Tue Trivia online during Pandemic
 Susan	Karl Withakay	Long time skeptic friend (met at TAM)
-Susan	Kevin	Facebook Psychic Group https://www.facebook.com/groups/754199281404543
+Susan	Katie	tbd
+Susan	Kelly Burke	tbd
+Susan	Kevin Mocker	Facebook Psychic Group https://www.facebook.com/groups/754199281404543
 Susan	Kyle	tbd
+Susan	Leonard	Friend via skepticism
+Susan	Lou H	tbd
 Susan	Mano	Attended Monterey County Skeptic events
-Susan	Richard	Amazing Cruise 2007
-Susan	Rob P	Friend via skepticism
-Susan	Zeek	Greater L.A. Skeptic Community / TAM
-Susan	Robin	Monterey County Skeptics
 Susan	Mark Edward	Partners
+Susan	Paulina	tbd
+Susan	Raymond	tbd
+Susan	Richard Saunders	Amazing Cruise 2007
+Susan	Richard McDonald	tbd
+Susan	Rob P	Friend via skepticism
+Susan	Robin	Monterey County Skeptics
+Susan	Ross Blocher	tbd
+Susan	Sharon Roney	tbd
 Susan	Susan's FB post	This exists to connect Susan to anyone who finds game through her FB posts
+Susan	Troy	GSoW
+Susan	Wendy	tbd
+Susan	Zeek	Greater L.A. Skeptic Community / TAM
 Robin	Bill Nyden	Old friends from a Patrick O'Brian literary group
+Robin	Brooke Silveria	tbd
 Robin	Isabella	Neighbor
+Robin	Jeff Rothal	tbd
 Robin	Peggy	Employee/Boss
 Rob P	Bob (Flockmeister)	Recovering from Religion acquaintance
 Rob P	Brandi	Friend via skepticism
@@ -28,40 +54,21 @@ Rob P	Kristy	Recovering from Religion acquaintance
 Rob P	Paula S	Friend via skepticism
 Rob P	Teri	Recovering from Religion acquaintance
 Ramiro	Faith	Spouses
+Kevin Mocker	Andy Hebner	tbd
+Kevin Mocker	Jake Mocker	tbd
+Kevin Mocker	Vanessa	tbd
+Karl Withakay	Ben Bellinger	tbd
 Karen Araujo	Jane Felton	Monterey Co Humanists
+Jim Newman	Hayley	tbd
+Isabella	Francoise 	friends  
+Gail Knapp	Jamie Knapp	siblings
 Caspian	Jamie Brown	Partners
 Brian Kerby	Terry Kerby	Spouses
+Bob (Flockmeister)	Kerig	tbd
+Bob (Flockmeister)	Ryan	Father/Son
 Avi	Alan	Father/Son
 Avi	Ramiro	Friend (SGU Discord)
+Alan	Ron Frere	tbd
 Adrienne	Jim Baerg	Friend from Atheist Society of Calgary bookclub
-Adrienne	Vincent	Friend from Atheist Society of Calgary bookclub
 Adrienne	Larry	Friend from Atheist Society of Calgary bookclub
-Susan	April Hoy	tbd
-???	Avi	tbd
-Karl 	Ben Bellinger	tbd
-Wendy	Heather	tbd
-Susan	Kelly Burke	tbd
-Susan	Leonard	Friend via skepticism
-Susan	Paulina	tbd
-Susan	Brian Dunning	tbd
-Susan	Brian Engler	tbd
-Susan	Brian Kerby	tbd
-Robin	Brooke Silveria	tbd
-Susan	David Knobel	tbd
-Jim Newman	Hayley	tbd
-Robin	Jeff Rothal	tbd
-???	Jim Newman	tbd
-???	Katie	tbd
-Susan	Lou H	tbd
-Susan	Raymond	tbd
-Susan	Richard McDonald	tbd
-Susan	Ross Blocher	tbd
-Susan	Sharon Roney	tbd
-Alan	Ron	Frere
-Susan	Troy	GSoW
-Susan	Gail Knapp	skeptic friend
-Jame Knapp	Gail Knapp	brother
-Susan	Jim Newman	
-Kevin	Vanessa	
-Kevin	Andy	
-Kevin	Jake	
+Adrienne	Vincent	Friend from Atheist Society of Calgary bookclub
