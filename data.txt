@@ -1,32 +1,34 @@
 Inviter	Invitee	Relationship
-Teri	Suzie	Friends
-Susan	Kyle	???
-Susan	Richard	Amazing Cruise 2007
-Susan	Mano	Attended Monterey County Skeptic events
-Susan	Kevin	Facebook Psychic Group https://www.facebook.com/groups/754199281404543
-Susan	Rob P	Friend via skepticism
-Susan	Carolyn	From meeting at CSICon
-Susan	Jeanine	From the Skeptics Toolbox in Eugene, Oregon
-Susan	Zeek	Greater L.A. Skeptic Community / TAM
+Teri	Susan 	Friends
+Susan	Mike W.	Mike saw link posted on FB by friend who works at the Maximum Fun podcast network (Oh No Ross & Carrie, Go Fact Yourself).
 Susan	Adrienne	GSoW
-Susan	Jane from Oregon	Jeanine invited Jane to dinner where she met Susan; Susan invited Jane to trivia.
-Susan	Deborah	Long time skeptic friend (met at 1st MCS meeting)
-Susan	Karl Withakay	Long time skeptic friend (met at TAM)
+Susan	Carolyn	From meeting at CSICon
 Susan	Caspian	Mother/Son
-Susan	Karen Araujo saw on FB	Neighbors. 1st Trivia night birthed from a Tue Trivia online during Pandemic
+Susan	Deborah	Long time skeptic friend (met at 1st MCS meeting)
+Susan	Jane from Oregon	Jeanine invited Jane to dinner where she met Susan; Susan invited Jane to trivia.
+Susan	Jeanine	From the Skeptics Toolbox in Eugene, Oregon
+Susan	Karen Araujo	Neighbors. 1st Trivia night birthed from a Tue Trivia online during Pandemic
+Susan	Karl Withakay	Long time skeptic friend (met at TAM)
+Susan	Kevin	Facebook Psychic Group https://www.facebook.com/groups/754199281404543
+Susan	Kyle	tbd
+Susan	Mano	Attended Monterey County Skeptic events
+Susan	Richard	Amazing Cruise 2007
+Susan	Rob P	Friend via skepticism
+Susan	Zeek	Greater L.A. Skeptic Community / TAM
+Susan	Robin	Monterey County Skeptics
 Susan	Mark Edward	Partners
-Robin	Peggy	Employee/Boss
+Susan	Susan's FB post	This exists to connect Susan to anyone who finds game through her FB posts
+Robin	Bill Nyden	Old friends from a Patrick O'Brian literary group
 Robin	Isabella	Neighbor
-Robin	Bill Nyden	???
-Rob  P	Brandi	Friend via skepticism
-Rob  P	Paula S	Friend via skepticism
-Rob  P	Erin	Friends IRL
-Rob  P	Bob (Flockmeister)	Recovering from Religion acquaintance
-Rob  P	Kristy	Recovering from Religion acquaintance
-Rob  P	Teri	Recovering from Religion acquaintance
+Robin	Peggy	Employee/Boss
+Rob P	Bob (Flockmeister)	Recovering from Religion acquaintance
+Rob P	Brandi	Friend via skepticism
+Rob P	Erin	Friends IRL
+Rob P	Kristy	Recovering from Religion acquaintance
+Rob P	Paula S	Friend via skepticism
+Rob P	Teri	Recovering from Religion acquaintance
 Ramiro	Faith	Spouses
 Karen Araujo	Jane Felton	Monterey Co Humanists
-Facebook link	Mike W.	Mike saw link posted on FB by friend who works at the Maximum Fun podcast network (Oh No Ross & Carrie, Go Fact Yourself).
 Caspian	Jamie Brown	Partners
 Brian Kerby	Terry Kerby	Spouses
 Avi	Alan	Father/Son
@@ -34,26 +36,32 @@ Avi	Ramiro	Friend (SGU Discord)
 Adrienne	Jim Baerg	Friend from Atheist Society of Calgary bookclub
 Adrienne	Vincent	Friend from Atheist Society of Calgary bookclub
 Adrienne	Larry	Friend from Atheist Society of Calgary bookclub
-???	Avi	???
-???	Paulina	???
-???	April Hoy	???
-???	Heather	???
-???	Kelly Burke	???
-???	Ben Bellinger	???
-???	Leonard	Friend via skepticism
-???	Zeek	???
-???	Mano	???
-???	Ross Blocher	???
-???	Brian Dunning	???
-???	Hayley	???
-???	Jim Newman	???
-???	Lou H	???
-???	Katie	???
-???	Richard McDonald	???
-???	David Knobel	???
-???	Brooke Silveria	???
-???	Jeff Rothal	???
-???	Raymond	???
-???	Sharon Roney	???
-???	Brian Kerby	???
-???	Brian Engler	???
+Susan	April Hoy	tbd
+???	Avi	tbd
+Karl 	Ben Bellinger	tbd
+Wendy	Heather	tbd
+Susan	Kelly Burke	tbd
+Susan	Leonard	Friend via skepticism
+Susan	Paulina	tbd
+Susan	Brian Dunning	tbd
+Susan	Brian Engler	tbd
+Susan	Brian Kerby	tbd
+Robin	Brooke Silveria	tbd
+Susan	David Knobel	tbd
+Jim Newman	Hayley	tbd
+Robin	Jeff Rothal	tbd
+???	Jim Newman	tbd
+???	Katie	tbd
+Susan	Lou H	tbd
+Susan	Raymond	tbd
+Susan	Richard McDonald	tbd
+Susan	Ross Blocher	tbd
+Susan	Sharon Roney	tbd
+Alan	Ron	Frere
+Susan	Troy	GSoW
+Susan	Gail Knapp	skeptic friend
+Jame Knapp	Gail Knapp	brother
+Susan	Jim Newman	
+Kevin	Vanessa	
+Kevin	Andy	
+Kevin	Jake	
