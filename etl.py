@@ -17,8 +17,8 @@ s = s[i:]
 for row in s.split('\n'):
 	arr = row.split('\t')
 	if len(arr) == 3:
-		n1 = arr[0]
-		n2 = arr[1]
+		n1 = arr[0].strip()
+		n2 = arr[1].strip()
 		if n1 not in nodes:
 			nodes.add(n1)
 			nmap[n1] = c
