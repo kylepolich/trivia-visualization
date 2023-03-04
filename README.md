@@ -1,6 +1,6 @@
 # Trivia Lineage
 
-See it live at https://s3.amazonaws.com/dataskeptic.com/tmp/index.html
+See it live at https://s3.amazonaws.com/dataskeptic.com/trivia-graph/index.html
 
 | File | Description |
 |------|-------------|
