@@ -1,203 +1,8 @@
 {
     "nodes": [
         {
-            "id": 45,
-            "label": "Bill Nyden",
-            "nodeType": "player"
-        },
-        {
-            "id": 43,
-            "label": "Troy",
-            "nodeType": "player"
-        },
-        {
-            "id": 54,
-            "label": "Paula S",
-            "nodeType": "player"
-        },
-        {
-            "id": 49,
-            "label": "Peggy",
-            "nodeType": "player"
-        },
-        {
-            "id": 63,
-            "label": "Hayley",
-            "nodeType": "player"
-        },
-        {
-            "id": 52,
-            "label": "Erin",
-            "nodeType": "player"
-        },
-        {
-            "id": 15,
-            "label": "Brian Kerby",
-            "nodeType": "player"
-        },
-        {
-            "id": 66,
-            "label": "Jamie Brown",
-            "nodeType": "player"
-        },
-        {
-            "id": 74,
-            "label": "Vincent",
-            "nodeType": "player"
-        },
-        {
-            "id": 47,
-            "label": "Isabella",
-            "nodeType": "player"
-        },
-        {
-            "id": 22,
-            "label": "Jeanine",
-            "nodeType": "player"
-        },
-        {
-            "id": 60,
-            "label": "Vanessa",
-            "nodeType": "player"
-        },
-        {
-            "id": 2,
-            "label": "Heather",
-            "nodeType": "player"
-        },
-        {
-            "id": 14,
-            "label": "Brian Engler",
-            "nodeType": "player"
-        },
-        {
-            "id": 53,
-            "label": "Kristy",
-            "nodeType": "player"
-        },
-        {
-            "id": 30,
-            "label": "Leonard",
-            "nodeType": "player"
-        },
-        {
-            "id": 39,
-            "label": "Robin",
-            "nodeType": "player"
-        },
-        {
-            "id": 46,
-            "label": "Brooke Silveria",
-            "nodeType": "player"
-        },
-        {
-            "id": 65,
-            "label": "Jamie Knapp",
-            "nodeType": "player"
-        },
-        {
-            "id": 68,
-            "label": "Kerig",
-            "nodeType": "player"
-        },
-        {
-            "id": 4,
-            "label": "Mike W.",
-            "nodeType": "player"
-        },
-        {
-            "id": 69,
-            "label": "Ryan",
-            "nodeType": "player"
-        },
-        {
-            "id": 59,
-            "label": "Jake Mocker",
-            "nodeType": "player"
-        },
-        {
-            "id": 71,
-            "label": "Ron Frere",
-            "nodeType": "player"
-        },
-        {
-            "id": 3,
-            "label": "Susan",
-            "nodeType": "player"
-        },
-        {
-            "id": 20,
-            "label": "Gail Knapp",
-            "nodeType": "player"
-        },
-        {
-            "id": 38,
-            "label": "Rob P",
-            "nodeType": "player"
-        },
-        {
-            "id": 26,
-            "label": "Katie",
-            "nodeType": "player"
-        },
-        {
-            "id": 1,
-            "label": "Wendy",
-            "nodeType": "player"
-        },
-        {
-            "id": 72,
-            "label": "Jim Baerg",
-            "nodeType": "player"
-        },
-        {
-            "id": 17,
-            "label": "Caspian",
-            "nodeType": "player"
-        },
-        {
-            "id": 12,
-            "label": "April Hoy",
-            "nodeType": "player"
-        },
-        {
-            "id": 36,
-            "label": "Richard Saunders",
-            "nodeType": "player"
-        },
-        {
-            "id": 5,
-            "label": "Avi",
-            "nodeType": "player"
-        },
-        {
-            "id": 56,
-            "label": "Ramiro",
-            "nodeType": "player"
-        },
-        {
-            "id": 7,
-            "label": "Cindi",
-            "nodeType": "player"
-        },
-        {
-            "id": 23,
-            "label": "Jim Newman",
-            "nodeType": "player"
-        },
-        {
-            "id": 64,
-            "label": "Francoise",
-            "nodeType": "player"
-        },
-        {
-            "id": 6,
-            "label": "Bill London",
-            "nodeType": "player"
-        },
-        {
-            "id": 37,
-            "label": "Richard McDonald",
+            "id": 32,
+            "label": "Mark Edward",
             "nodeType": "player"
         },
         {
@@ -206,58 +11,33 @@
             "nodeType": "player"
         },
         {
-            "id": 18,
-            "label": "David Knobel",
+            "id": 73,
+            "label": "Vincent",
             "nodeType": "player"
         },
         {
-            "id": 58,
-            "label": "Andy Hebner",
-            "nodeType": "player"
-        },
-        {
-            "id": 61,
-            "label": "Ben Bellinger",
-            "nodeType": "player"
-        },
-        {
-            "id": 19,
-            "label": "Deborah",
-            "nodeType": "player"
-        },
-        {
-            "id": 42,
-            "label": "Susan's FB post",
-            "nodeType": "player"
-        },
-        {
-            "id": 27,
-            "label": "Kelly Burke",
-            "nodeType": "player"
-        },
-        {
-            "id": 44,
-            "label": "Zeek",
-            "nodeType": "player"
-        },
-        {
-            "id": 57,
-            "label": "Faith",
-            "nodeType": "player"
-        },
-        {
-            "id": 28,
+            "id": 26,
             "label": "Kevin Mocker",
             "nodeType": "player"
         },
         {
-            "id": 55,
-            "label": "Teri",
+            "id": 7,
+            "label": "Avi",
             "nodeType": "player"
         },
         {
-            "id": 9,
-            "label": "Mark Bellis",
+            "id": 60,
+            "label": "Ben Bellinger",
+            "nodeType": "player"
+        },
+        {
+            "id": 13,
+            "label": "Caspian",
+            "nodeType": "player"
+        },
+        {
+            "id": 18,
+            "label": "Jane from Oregon",
             "nodeType": "player"
         },
         {
@@ -266,78 +46,228 @@
             "nodeType": "player"
         },
         {
-            "id": 24,
-            "label": "Karen Araujo",
+            "id": 44,
+            "label": "Bill Nyden",
             "nodeType": "player"
         },
         {
-            "id": 29,
+            "id": 54,
+            "label": "Teri",
+            "nodeType": "player"
+        },
+        {
+            "id": 27,
             "label": "Kyle",
             "nodeType": "player"
         },
         {
-            "id": 8,
-            "label": "Jim Fitzsimons",
+            "id": 19,
+            "label": "Jeanine",
             "nodeType": "player"
         },
         {
-            "id": 21,
-            "label": "Jane from Oregon",
+            "id": 42,
+            "label": "Troy",
             "nodeType": "player"
         },
         {
-            "id": 11,
-            "label": "Adrienne",
-            "nodeType": "player"
-        },
-        {
-            "id": 16,
-            "label": "Carolyn",
-            "nodeType": "player"
-        },
-        {
-            "id": 13,
-            "label": "Brian Dunning",
-            "nodeType": "player"
-        },
-        {
-            "id": 62,
-            "label": "Jane Felton",
-            "nodeType": "player"
-        },
-        {
-            "id": 33,
-            "label": "Mark Edward",
-            "nodeType": "player"
-        },
-        {
-            "id": 70,
+            "id": 69,
             "label": "Alan",
             "nodeType": "player"
         },
         {
-            "id": 10,
-            "label": "Michelle Franklin",
+            "id": 25,
+            "label": "Kelly Burke",
             "nodeType": "player"
         },
         {
-            "id": 32,
-            "label": "Mano",
+            "id": 36,
+            "label": "Richard McDonald",
+            "nodeType": "player"
+        },
+        {
+            "id": 21,
+            "label": "Jim Newman",
+            "nodeType": "player"
+        },
+        {
+            "id": 24,
+            "label": "Katie",
+            "nodeType": "player"
+        },
+        {
+            "id": 15,
+            "label": "David Knobel",
+            "nodeType": "player"
+        },
+        {
+            "id": 14,
+            "label": "Cindi",
+            "nodeType": "player"
+        },
+        {
+            "id": 48,
+            "label": "Peggy",
+            "nodeType": "player"
+        },
+        {
+            "id": 49,
+            "label": "Bob (Flockmeister)",
+            "nodeType": "player"
+        },
+        {
+            "id": 68,
+            "label": "Ryan",
+            "nodeType": "player"
+        },
+        {
+            "id": 2,
+            "label": "Heather",
+            "nodeType": "player"
+        },
+        {
+            "id": 64,
+            "label": "Jamie Knapp",
+            "nodeType": "player"
+        },
+        {
+            "id": 6,
+            "label": "April Hoy",
+            "nodeType": "player"
+        },
+        {
+            "id": 10,
+            "label": "Brian Engler",
+            "nodeType": "player"
+        },
+        {
+            "id": 50,
+            "label": "Brandi",
+            "nodeType": "player"
+        },
+        {
+            "id": 65,
+            "label": "Jamie Brown",
+            "nodeType": "player"
+        },
+        {
+            "id": 51,
+            "label": "Erin",
+            "nodeType": "player"
+        },
+        {
+            "id": 57,
+            "label": "Andy Hebner",
+            "nodeType": "player"
+        },
+        {
+            "id": 71,
+            "label": "Jim Baerg",
             "nodeType": "player"
         },
         {
             "id": 31,
-            "label": "Lou H",
+            "label": "Mark Bellis",
             "nodeType": "player"
         },
         {
-            "id": 73,
+            "id": 33,
+            "label": "Michelle Franklin",
+            "nodeType": "player"
+        },
+        {
+            "id": 28,
+            "label": "Leonard",
+            "nodeType": "player"
+        },
+        {
+            "id": 12,
+            "label": "Carolyn",
+            "nodeType": "player"
+        },
+        {
+            "id": 43,
+            "label": "Zeek",
+            "nodeType": "player"
+        },
+        {
+            "id": 47,
+            "label": "Jeff Rothal",
+            "nodeType": "player"
+        },
+        {
+            "id": 4,
+            "label": "Mike W.",
+            "nodeType": "player"
+        },
+        {
+            "id": 58,
+            "label": "Jake Mocker",
+            "nodeType": "player"
+        },
+        {
+            "id": 55,
+            "label": "Ramiro",
+            "nodeType": "player"
+        },
+        {
+            "id": 70,
+            "label": "Ron Frere",
+            "nodeType": "player"
+        },
+        {
+            "id": 11,
+            "label": "Brian Kerby",
+            "nodeType": "player"
+        },
+        {
+            "id": 38,
+            "label": "Rob P",
+            "nodeType": "player"
+        },
+        {
+            "id": 22,
+            "label": "Karen Araujo",
+            "nodeType": "player"
+        },
+        {
+            "id": 16,
+            "label": "Deborah",
+            "nodeType": "player"
+        },
+        {
+            "id": 3,
+            "label": "Susan",
+            "nodeType": "player"
+        },
+        {
+            "id": 72,
             "label": "Larry",
             "nodeType": "player"
         },
         {
-            "id": 25,
+            "id": 53,
+            "label": "Paula S",
+            "nodeType": "player"
+        },
+        {
+            "id": 1,
+            "label": "Wendy",
+            "nodeType": "player"
+        },
+        {
+            "id": 23,
             "label": "Karl Withakay",
+            "nodeType": "player"
+        },
+        {
+            "id": 46,
+            "label": "Isabella",
+            "nodeType": "player"
+        },
+        {
+            "id": 8,
+            "label": "Bill London",
             "nodeType": "player"
         },
         {
@@ -346,13 +276,58 @@
             "nodeType": "player"
         },
         {
-            "id": 48,
-            "label": "Jeff Rothal",
+            "id": 9,
+            "label": "Brian Dunning",
             "nodeType": "player"
         },
         {
-            "id": 50,
-            "label": "Bob (Flockmeister)",
+            "id": 37,
+            "label": "Richard Saunders",
+            "nodeType": "player"
+        },
+        {
+            "id": 45,
+            "label": "Brooke Silveria",
+            "nodeType": "player"
+        },
+        {
+            "id": 5,
+            "label": "Adrienne",
+            "nodeType": "player"
+        },
+        {
+            "id": 59,
+            "label": "Vanessa",
+            "nodeType": "player"
+        },
+        {
+            "id": 67,
+            "label": "Kerig",
+            "nodeType": "player"
+        },
+        {
+            "id": 63,
+            "label": "Francoise",
+            "nodeType": "player"
+        },
+        {
+            "id": 56,
+            "label": "Faith",
+            "nodeType": "player"
+        },
+        {
+            "id": 61,
+            "label": "Jane Felton",
+            "nodeType": "player"
+        },
+        {
+            "id": 20,
+            "label": "Jim Fitzsimons",
+            "nodeType": "player"
+        },
+        {
+            "id": 66,
+            "label": "Terry Kerby",
             "nodeType": "player"
         },
         {
@@ -361,13 +336,33 @@
             "nodeType": "player"
         },
         {
-            "id": 51,
-            "label": "Brandi",
+            "id": 62,
+            "label": "Hayley",
             "nodeType": "player"
         },
         {
-            "id": 67,
-            "label": "Terry Kerby",
+            "id": 30,
+            "label": "Mano",
+            "nodeType": "player"
+        },
+        {
+            "id": 29,
+            "label": "Lou H",
+            "nodeType": "player"
+        },
+        {
+            "id": 52,
+            "label": "Kristy",
+            "nodeType": "player"
+        },
+        {
+            "id": 17,
+            "label": "Gail Knapp",
+            "nodeType": "player"
+        },
+        {
+            "id": 39,
+            "label": "Robin",
             "nodeType": "player"
         }
     ],
@@ -385,7 +380,7 @@
         {
             "source": 3,
             "target": 5,
-            "caption": "tbd"
+            "caption": "GSoW"
         },
         {
             "source": 3,
@@ -410,22 +405,22 @@
         {
             "source": 3,
             "target": 10,
-            "caption": "skeptic friend"
+            "caption": "tbd"
         },
         {
             "source": 3,
             "target": 11,
-            "caption": "GSoW"
+            "caption": "tbd"
         },
         {
             "source": 3,
             "target": 12,
-            "caption": "tbd"
+            "caption": "From meeting at CSICon"
         },
         {
             "source": 3,
             "target": 13,
-            "caption": "tbd"
+            "caption": "Mother/Son"
         },
         {
             "source": 3,
@@ -440,57 +435,57 @@
         {
             "source": 3,
             "target": 16,
-            "caption": "From meeting at CSICon"
-        },
-        {
-            "source": 3,
-            "target": 17,
-            "caption": "Mother/Son"
-        },
-        {
-            "source": 3,
-            "target": 18,
-            "caption": "tbd"
-        },
-        {
-            "source": 3,
-            "target": 19,
             "caption": "Long time skeptic friend (met at 1st MCS meeting)"
         },
         {
             "source": 3,
-            "target": 20,
+            "target": 17,
             "caption": "skeptic friend"
         },
         {
             "source": 3,
-            "target": 21,
+            "target": 18,
             "caption": "Jeanine invited Jane to dinner where she met Susan; Susan invited Jane to trivia."
         },
         {
             "source": 3,
-            "target": 22,
+            "target": 19,
             "caption": "From the Skeptics Toolbox in Eugene, Oregon"
         },
         {
             "source": 3,
-            "target": 23,
+            "target": 20,
             "caption": "tbd"
         },
         {
             "source": 3,
-            "target": 24,
+            "target": 21,
+            "caption": "tbd"
+        },
+        {
+            "source": 3,
+            "target": 22,
             "caption": "Neighbors. 1st Trivia night birthed from a Tue Trivia online during Pandemic"
         },
         {
             "source": 3,
-            "target": 25,
+            "target": 23,
             "caption": "Long time skeptic friend (met at TAM)"
         },
         {
             "source": 3,
-            "target": 26,
+            "target": 24,
             "caption": "tbd"
+        },
+        {
+            "source": 3,
+            "target": 25,
+            "caption": "tbd"
+        },
+        {
+            "source": 3,
+            "target": 26,
+            "caption": "Facebook Psychic Group https://www.facebook.com/groups/754199281404543"
         },
         {
             "source": 3,
@@ -500,7 +495,7 @@
         {
             "source": 3,
             "target": 28,
-            "caption": "Facebook Psychic Group https://www.facebook.com/groups/754199281404543"
+            "caption": "Friend via skepticism"
         },
         {
             "source": 3,
@@ -510,7 +505,7 @@
         {
             "source": 3,
             "target": 30,
-            "caption": "Friend via skepticism"
+            "caption": "Attended Monterey County Skeptic events"
         },
         {
             "source": 3,
@@ -520,12 +515,12 @@
         {
             "source": 3,
             "target": 32,
-            "caption": "Attended Monterey County Skeptic events"
+            "caption": "Partners"
         },
         {
             "source": 3,
             "target": 33,
-            "caption": "Partners"
+            "caption": "skeptic friend"
         },
         {
             "source": 3,
@@ -540,12 +535,12 @@
         {
             "source": 3,
             "target": 36,
-            "caption": "Amazing Cruise 2007"
+            "caption": "tbd"
         },
         {
             "source": 3,
             "target": 37,
-            "caption": "tbd"
+            "caption": "Amazing Cruise 2007"
         },
         {
             "source": 3,
@@ -570,11 +565,6 @@
         {
             "source": 3,
             "target": 42,
-            "caption": "This exists to connect Susan to anyone who finds game through her FB posts"
-        },
-        {
-            "source": 3,
-            "target": 43,
             "caption": "GSoW"
         },
         {
@@ -584,157 +574,157 @@
         },
         {
             "source": 3,
-            "target": 44,
+            "target": 43,
             "caption": "Greater L.A. Skeptic Community / TAM"
         },
         {
             "source": 39,
-            "target": 45,
+            "target": 44,
             "caption": "Old friends from a Patrick O'Brian literary group"
         },
         {
             "source": 39,
-            "target": 46,
+            "target": 45,
             "caption": "tbd"
         },
         {
             "source": 39,
-            "target": 47,
+            "target": 46,
             "caption": "Neighbor"
         },
         {
             "source": 39,
-            "target": 48,
+            "target": 47,
             "caption": "tbd"
         },
         {
             "source": 39,
-            "target": 49,
+            "target": 48,
             "caption": "Employee/Boss"
         },
         {
             "source": 38,
-            "target": 50,
+            "target": 49,
             "caption": "Recovering from Religion acquaintance"
+        },
+        {
+            "source": 38,
+            "target": 50,
+            "caption": "Friend via skepticism"
         },
         {
             "source": 38,
             "target": 51,
-            "caption": "Friend via skepticism"
-        },
-        {
-            "source": 38,
-            "target": 52,
             "caption": "Friends IRL"
         },
         {
             "source": 38,
-            "target": 53,
+            "target": 52,
             "caption": "Recovering from Religion acquaintance"
         },
         {
             "source": 38,
-            "target": 54,
+            "target": 53,
             "caption": "Friend via skepticism"
         },
         {
             "source": 38,
-            "target": 55,
+            "target": 54,
             "caption": "Recovering from Religion acquaintance"
         },
         {
-            "source": 56,
-            "target": 57,
+            "source": 55,
+            "target": 56,
             "caption": "Spouses"
         },
         {
-            "source": 28,
+            "source": 26,
+            "target": 57,
+            "caption": "tbd"
+        },
+        {
+            "source": 26,
             "target": 58,
             "caption": "tbd"
         },
         {
-            "source": 28,
+            "source": 26,
             "target": 59,
             "caption": "tbd"
         },
         {
-            "source": 28,
+            "source": 23,
             "target": 60,
             "caption": "tbd"
         },
         {
-            "source": 25,
+            "source": 22,
             "target": 61,
-            "caption": "tbd"
-        },
-        {
-            "source": 24,
-            "target": 62,
             "caption": "Monterey Co Humanists"
         },
         {
-            "source": 23,
-            "target": 63,
+            "source": 21,
+            "target": 62,
             "caption": "tbd"
         },
         {
-            "source": 47,
-            "target": 64,
+            "source": 46,
+            "target": 63,
             "caption": "friends  "
         },
         {
-            "source": 20,
-            "target": 65,
+            "source": 17,
+            "target": 64,
             "caption": "siblings"
         },
         {
-            "source": 17,
-            "target": 66,
+            "source": 13,
+            "target": 65,
             "caption": "Partners"
         },
         {
-            "source": 15,
-            "target": 67,
+            "source": 11,
+            "target": 66,
             "caption": "Spouses"
         },
         {
-            "source": 50,
-            "target": 68,
+            "source": 49,
+            "target": 67,
             "caption": "tbd"
         },
         {
-            "source": 50,
+            "source": 49,
+            "target": 68,
+            "caption": "Father/Son"
+        },
+        {
+            "source": 7,
             "target": 69,
             "caption": "Father/Son"
         },
         {
-            "source": 5,
-            "target": 70,
-            "caption": "Father/Son"
-        },
-        {
-            "source": 5,
-            "target": 56,
+            "source": 7,
+            "target": 55,
             "caption": "Friend (SGU Discord)"
         },
         {
-            "source": 70,
-            "target": 71,
+            "source": 69,
+            "target": 70,
             "caption": "tbd"
         },
         {
-            "source": 11,
+            "source": 5,
+            "target": 71,
+            "caption": "Friend from Atheist Society of Calgary bookclub"
+        },
+        {
+            "source": 5,
             "target": 72,
             "caption": "Friend from Atheist Society of Calgary bookclub"
         },
         {
-            "source": 11,
+            "source": 5,
             "target": 73,
-            "caption": "Friend from Atheist Society of Calgary bookclub"
-        },
-        {
-            "source": 11,
-            "target": 74,
             "caption": "Friend from Atheist Society of Calgary bookclub"
         }
     ]

@@ -1,24 +1,22 @@
 Inviter	Invitee	Relationship
 Wendy	Heather	tbd
 Susan	Mike W.	Saw Susan's FB link shared by friend who works at the Maximum Fun podcast network
-Susan 	Avi	tbd
-Susan 	Bill London	tbd
-Susan 	Cindi	tbd
-Susan 	Jim Fitzsimons	tbd
-Susan 	Mark Bellis	tbd
-Susan 	Michelle Franklin	skeptic friend
 Susan	Adrienne	GSoW
 Susan	April Hoy	tbd
+Susan	Avi	tbd
+Susan	Bill London	tbd
 Susan	Brian Dunning	tbd
 Susan	Brian Engler	tbd
 Susan	Brian Kerby	tbd
 Susan	Carolyn	From meeting at CSICon
 Susan	Caspian	Mother/Son
+Susan	Cindi	tbd
 Susan	David Knobel	tbd
 Susan	Deborah	Long time skeptic friend (met at 1st MCS meeting)
 Susan	Gail Knapp	skeptic friend
 Susan	Jane from Oregon	Jeanine invited Jane to dinner where she met Susan; Susan invited Jane to trivia.
 Susan	Jeanine	From the Skeptics Toolbox in Eugene, Oregon
+Susan	Jim Fitzsimons	tbd
 Susan	Jim Newman	tbd
 Susan	Karen Araujo	Neighbors. 1st Trivia night birthed from a Tue Trivia online during Pandemic
 Susan	Karl Withakay	Long time skeptic friend (met at TAM)
@@ -29,16 +27,17 @@ Susan	Kyle	tbd
 Susan	Leonard	Friend via skepticism
 Susan	Lou H	tbd
 Susan	Mano	Attended Monterey County Skeptic events
+Susan	Mark Bellis	tbd
 Susan	Mark Edward	Partners
+Susan	Michelle Franklin	skeptic friend
 Susan	Paulina	tbd
 Susan	Raymond	tbd
-Susan	Richard Saunders	Amazing Cruise 2007
 Susan	Richard McDonald	tbd
+Susan	Richard Saunders	Amazing Cruise 2007
 Susan	Rob P	Friend via skepticism
 Susan	Robin	Monterey County Skeptics
 Susan	Ross Blocher	tbd
 Susan	Sharon Roney	tbd
-Susan	Susan's FB post	This exists to connect Susan to anyone who finds game through her FB posts
 Susan	Troy	GSoW
 Susan	Wendy	tbd
 Susan	Zeek	Greater L.A. Skeptic Community / TAM
